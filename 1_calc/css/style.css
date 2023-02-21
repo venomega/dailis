@@ -1,0 +1,21 @@
+table {
+  background-color: black;
+  font-size: 44px;
+  color: white;
+}
+
+tr{
+  background-color: orange;
+}
+th{
+  min-width: 80px
+}
+
+.screen {
+  background-color: white;
+  color: black;
+}
+
+.oper {
+  background-color: #f81;
+}
